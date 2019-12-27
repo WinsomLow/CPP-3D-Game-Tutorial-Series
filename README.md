@@ -14,21 +14,3 @@ In this series will be developed a 3D Game Demo, starting from the creation of a
 going through the making of a 3D Graphics Engine,
 and all the necessary sub-systems in order to achieve a complete 3D Game,
 like the Audio System, GUI System, Script System, Entity Component System, Input System and so on.
-
-| N |Image| Tutorial | Release Date | YouTube |
-|-------|------|-----------------|-----------------|-----------------|
-|1|![](Media/1.jpg)| ![Creating a Window with Win32 API](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial1_Window) | 11 Dec 2018 | ![Link](https://youtu.be/ssGka-bSTvQ) 
-|2|![](Media/2.jpg)| ![Creating 3D Engine - Initialization](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial2_GraphicsEngine_Initialization) | 1 Jan 2019 | ![Link](https://youtu.be/j7JP0aiRQyY) 
-|3|![](Media/3.jpg)| ![Creating 3D Engine - Swap Chain](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial3_GraphicsEngine_SwapChain) | 7 Jan 2019 | ![Link](https://youtu.be/8ZsAR4j2S9g) 
-|4|![](Media/4.jpg)| ![Creating 3D Engine - Device Context](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial4_GraphicsEngine_DeviceContext) | 16 Jan 2019 | ![Link](https://youtu.be/GfvygBuuKUc) 
-|5|![](Media/5.jpg)| ![Creating 3D Engine - Drawing a Triangle](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial5_GraphicsEngine_DrawingTriangle) | 28 Jan 2019 | ![Link](https://youtu.be/J5JnRNIlN0Q) 
-|6|![](Media/6.jpg)| ![Creating 3D Engine - Drawing a Quad](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial6_GraphicsEngine_DrawingQuad) | 9 Feb 2019 | ![Link](https://youtu.be/CElE_sPoFU8) 
-|7|![](Media/7.jpg)| ![Creating 3D Engine - Vertex Shader](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial7_GraphicsEngine_VertexShader) | 21 Feb 2019 | ![Link](https://youtu.be/iFuZxLUinRk) 
-|8|![](Media/8.jpg)| ![Creating 3D Engine - Pixel Shader](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial8_GraphicsEngine_PixelShader) | 30 Mar 2019 | ![Link](https://youtu.be/Ozy0nhcbMks) 
-|9|![](Media/9.jpg)| ![Creating 3D Engine - Basic Animation](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial9_GraphicsEngine_BasicAnimation) | 25 Apr 2019 | ![Link](https://youtu.be/GkQsfEWKt4g) 
-|10|![](Media/10.jpg)| ![Creating 3D Engine - Transform Matrix](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial10_GraphicsEngine_TransformMatrix) | 1 Jun 2019 | ![Link](https://youtu.be/7WlAIwd-jGk) 
-|11|![](Media/11.jpg)| ![Creating 3D Engine - Rendering 3D Cube](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial11_GraphicsEngine_RenderingCube) | 7 Ago 2019 | ![Link](https://youtu.be/faaAo6QBkSQ) 
-|12|![](Media/12.jpg)| ![Creating Input System - Keyboard](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial12_InputSystem_Keyboard) | 10 Sep 2019 | ![Link](https://youtu.be/AoN92gCk9UU) 
-|13|![](Media/13.jpg)| ![Creating Input System - Mouse](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial13_InputSystem_Mouse) | 3 Oct 2019 | ![Link](https://youtu.be/7oECuAtKl9c) 
-|14|![](Media/14.jpg)| ![Creating 3D Engine - First Person Camera](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial14_GraphicsEngine_Camera) | 16 Nov 2019 | ![Link](https://youtu.be/o3yb7X_J9mw) 
-|15|![](Media/15.jpg)| ![Creating 3D Engine - Improving Engine Architecture](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial15_GraphicsEngine_RenderSystem_RAII_Exceptions) | 21 Dec 2019  | ![Link](https://youtu.be/8zD_aoAHFKg) 
