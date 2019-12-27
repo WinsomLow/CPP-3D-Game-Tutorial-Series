@@ -15,9 +15,9 @@ going through the making of a 3D Graphics Engine,
 and all the necessary sub-systems in order to achieve a complete 3D Game,
 like the Audio System, GUI System, Script System, Entity Component System, Input System and so on.
 
-| N | Tutorial | Release Date | YouTube |
-|-------|-----------------|-----------------|-----------------|
-|1| ![Creating a Window with Win32 API](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial1_Window) | 11 Dec 2018 | ![Link](https://youtu.be/ssGka-bSTvQ) 
+| N |Image| Tutorial | Release Date | YouTube |
+|-------|-----------------|-----------------|-----------------|-----------------|
+|1|![](Media/1.jpg)| ![Creating a Window with Win32 API](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial1_Window) | 11 Dec 2018 | ![Link](https://youtu.be/ssGka-bSTvQ) 
 |2| ![Creating 3D Engine - Initialization](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial2_GraphicsEngine_Initialization) | 1 Jan 2019 | ![Link](https://youtu.be/j7JP0aiRQyY) 
 |3| ![Creating 3D Engine - Swap Chain](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial3_GraphicsEngine_SwapChain) | 7 Jan 2019 | ![Link](https://youtu.be/8ZsAR4j2S9g) 
 |4| ![Creating 3D Engine - Device Context](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/tree/AllTutorials/Tutorial4_GraphicsEngine_DeviceContext) | 16 Jan 2019 | ![Link](https://youtu.be/GfvygBuuKUc) 
