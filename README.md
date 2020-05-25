@@ -14,7 +14,7 @@ C++ 3D Game Tutorial Series
 In this series will be developed a 3D Game Demo, starting from the creation of a Window by using Win32 API to all the necessary sub-systems in order to achieve a complete 3D Game,
 like
 
-- 3D Graphics Engine,
+- 3D Graphics Engine
 - Audio System
 - GUI System
 - Entity System
