@@ -26,7 +26,7 @@ The only conditions to meet are:
 - include (or simply not delete) the license text in all the source code files you get from this repository (copy-paste the license text to the top of all the source code files you get from this repository, even if you have partially modified them. )
 
 
-If you want to modify and/or redistribute the source code files available in this repository, you can optionally add your own copyright notice together with the license text in this way:
+If you want to modify and redistribute the source code files available in this repository, you can optionally add your own copyright notice together with the license text in this way:
 
 ```
 ...
