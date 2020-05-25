@@ -15,6 +15,8 @@ In this series will be developed a 3D Game Demo, starting from the creation of a
 like
 
 - 3D Graphics Engine
+-- Graphics APIs currently supported: DirectX 11
+-- Graphics APIs that could be added in the future: Vulkan, Metal
 - Audio System
 - GUI System
 - Entity System
