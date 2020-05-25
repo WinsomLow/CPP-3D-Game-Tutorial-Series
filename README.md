@@ -19,8 +19,10 @@ like the Audio System, GUI System, Script System, Entity Component System, Input
 The license of this project is based on the modified MIT-License.
 That means you can do whatever you want with the code available in this repository. 
 The only conditions to meet are:
-**- include the license text in your product (e.g. in the About Window of a GUI program, or Credits Section of a 2D/3D Visual Game)
-- include the license text in all the source code files you get from this repository (copy-paste the license text to the top of all the source code files you get from this repository, even if you have partially modified them)**
+
+**- include the license text in your product (e.g. in the About Window of a GUI program, or Credits Section of a 2D/3D Visual Game)**
+**- include the license text in all the source code files you get from this repository (copy-paste the license text to the top of all the source code files you get from this repository, even if you have partially modified them)
+**
 
 If you want to modify and/or redistribute the source code files available in this repository, you can optionally add your own copyright notice together with the license text in this way:
 
