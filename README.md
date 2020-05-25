@@ -7,16 +7,18 @@
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCs1ssVSR49YItKE7DZ3-Jcw)
 
-**C++ 3D Game Tutorial Series** 
-is a YouTube tutorial series, whose purpose is to help all those who want to take their first steps in
-the game development from scratch.
+C++ 3D Game Tutorial Series
+==================================
+
+**C++ 3D Game Tutorial Series**  is a YouTube tutorial series, whose purpose is to help all those who want to take their first steps in the game development from scratch.
 In this series will be developed a 3D Game Demo, starting from the creation of a Window by using Win32 API ,
 going through the making of a 3D Graphics Engine,
 and all the necessary sub-systems in order to achieve a complete 3D Game,
 like the Audio System, GUI System, Script System, Entity Component System, Input System and so on.
 
-**License**
+### License ###
 The license of this project is based on the modified MIT-License.
+
 That means you can do whatever you want with the code available in this repository. 
 The only conditions to meet are:
 
@@ -29,7 +31,7 @@ If you want to modify and/or redistribute the source code files available in thi
 ...
 
 C++ 3D Game Tutorial Series (https://github.com/PardCode/CPP-3D-Game-Tutorial-Series)
- <project name>, <website link or nothing>
+project name, website link or nothing
   
 Copyright (c) 2019-2020, PardCode
 Copyright (c) <your years>, <your name>
