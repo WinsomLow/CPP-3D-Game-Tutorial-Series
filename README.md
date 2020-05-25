@@ -28,12 +28,12 @@ The only conditions to meet are:
 
 If you want to modify and/or redistribute the source code files available in this repository, you can optionally add your own copyright notice together with the license text in this way:
 
-```...
+``...
 C++ 3D Game Tutorial Series (https://github.com/PardCode/CPP-3D-Game-Tutorial-Series)
 <project name>, <website link or nothing>
   
 Copyright (c) 2019-2020, PardCode
 Copyright (c) <your years>, <your name>  
-...```
+...``
 
 The license text is available in the LICENSE file.
