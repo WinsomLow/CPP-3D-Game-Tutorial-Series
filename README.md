@@ -12,8 +12,8 @@ C++ 3D Game Tutorial Series
 
 This project is available under a free and permissive license, but needs a financial support to sustain its development.  
 The development includes both the making of video tutorials and the writing of the code.  
-If you are using this project, please consider to leave a monthly pledge through Patreon.  
-Each single contribution is really important, regardless the amount.  
+If this project is in some way helpful to you, please consider to support it through Patreon.  
+Any single contribution would be greately appreciated, regardless the amount.  
 Thank you for all your support!  
   
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)  
