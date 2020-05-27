@@ -14,6 +14,7 @@ This project is available under a free and permissive license, but needs financi
 The development includes both the making of video tutorials and the writing of the code.  
 If you are using this project, please consider to leave a monthly pledge through Patreon.  
 Thank you for your support!  
+  
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)  
 
 -----
