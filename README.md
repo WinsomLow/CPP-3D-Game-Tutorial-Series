@@ -10,7 +10,14 @@
 C++ 3D Game Tutorial Series
 ==================================
 
-**C++ 3D Game Tutorial Series**  is a YouTube tutorial series, whose purpose is to help all those who want to take their first steps in the game development from scratch.
+This project is available under a free and permissive license, but needs financial support to sustain its development.
+The development includes both the making of video tutorials and the writing of the code.
+If you are using this project, please consider to leave a monthly pledge through Patreon.
+Thank you for your support!
+[![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)
+
+==================================
+**C++ 3D Game Tutorial Series**  is a YouTube tutorial series [!(link)](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy), whose purpose is to help all those who want to take their first steps in the game development from scratch.
 In this series will be developed a 3D Game Demo, starting from the creation of a Window by using Win32 API to the making of all the necessary sub-systems in order to achieve a complete 3D Game,
 like
 
