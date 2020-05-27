@@ -10,7 +10,7 @@
 C++ 3D Game Tutorial Series
 ==================================
 
-This project is available under a free and permissive license, but needs your financial support to sustain its development.  
+This project is available under a free and permissive license, but needs a financial support to sustain its development.  
 The development includes both the making of video tutorials and the writing of the code.  
 If you are using this project, please consider to leave a monthly pledge through Patreon.  
 Each single contribution is really important, regardless the amount.  
