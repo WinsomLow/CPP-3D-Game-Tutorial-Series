@@ -10,11 +10,27 @@
 C++ 3D Game Tutorial Series
 ==================================
 
-**C++ 3D Game Tutorial Series**  is a YouTube tutorial series, whose purpose is to help all those who want to take their first steps in the game development from scratch.
-In this series will be developed a 3D Game Demo, starting from the creation of a Window by using Win32 API ,
-going through the making of a 3D Graphics Engine,
-and all the necessary sub-systems in order to achieve a complete 3D Game,
-like the Audio System, GUI System, Script System, Entity Component System, Input System and so on.
+This project is available under a free and permissive license, but needs a financial support to sustain its development.  
+The development includes both the making of video tutorials and the writing of the code.  
+If this project is in some way helpful to you, please consider to support it through Patreon.  
+Any single contribution would be greately appreciated, regardless the amount.  
+Thank you for all your support!  
+  
+[![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)  
+
+-----
+**C++ 3D Game Tutorial Series**  is a YouTube tutorial series [(link)](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy), whose purpose is to help all those who want to take their first steps in the game development from scratch.
+In this series will be developed a 3D Game Demo, starting from the creation of a Window by using Win32 API to the making of all the necessary sub-systems in order to achieve a complete 3D Game,
+like
+
+- 3D Graphics Engine
+- Audio System
+- GUI System
+- Entity System
+- Input System
+- Fonts
+
+and so on.
 
 ### License ###
 The license of this project is based on the modified MIT-License.
@@ -26,7 +42,7 @@ The only conditions to meet are:
 - include (or simply not delete) the license text in all the source code files you get from this repository (copy-paste the license text to the top of all the source code files you get from this repository, even if you have partially modified them. )
 
 
-If you want to modify and/or redistribute the source code files available in this repository, you can optionally add your own copyright notice together with the license text in this way:
+If you want to modify and redistribute the source code files available in this repository, you can optionally add your own copyright notice together with the license text in this way:
 
 ```
 ...
