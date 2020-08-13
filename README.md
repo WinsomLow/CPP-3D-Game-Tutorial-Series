@@ -32,6 +32,21 @@ like
 
 and so on.
 
+-----
+### Supporters ###
+Thank you so much for your huge support!
+
+**Patreon Supporters (alphabetical order)**  
+  
+Bastien   
+Elite Salad   
+fragma   
+GhostDesign  
+Rem saigao  
+  
+**All YouTube - Discord - GitHub - Twitter followers and viewers**  
+
+-----
 ### License ###
 The license of this project is based on the modified MIT-License.
 
