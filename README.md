@@ -2,7 +2,7 @@
 ![](Media/title.png)
 
 ![CPP11](https://img.shields.io/badge/C++->=11-blue)
-[![TutorialNumber](https://img.shields.io/badge/NumberOfTutorials-24-blue)]()
+[![TutorialNumber](https://img.shields.io/badge/NumberOfTutorials-25-blue)]()
 [![Join Discord Server](https://img.shields.io/badge/Chat-Discord-9cf)](https://discord.gg/zXA8ypu)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCs1ssVSR49YItKE7DZ3-Jcw)
@@ -52,8 +52,6 @@ Oli Homer
 
 Rem saigao
 
-Vladimir Lazarevic
- 
   
 **All YouTube - Discord - GitHub - Twitter followers and viewers**  
 
