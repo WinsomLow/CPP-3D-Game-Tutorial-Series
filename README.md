@@ -1,5 +1,5 @@
 
-![](Media/title.png)
+![](Media/banner_github.png)
 
 ![CPP11](https://img.shields.io/badge/C++->=11-blue)
 [![TutorialNumber](https://img.shields.io/badge/NumberOfTutorials-30-blue)]()
