@@ -3,7 +3,7 @@
 
 ![CPP11](https://img.shields.io/badge/C++->=11-blue)
 [![TutorialNumber](https://img.shields.io/badge/NumberOfTutorials-30-blue)]()
-[![Join Discord Server](https://img.shields.io/badge/Chat-Discord-9cf)](https://discord.gg/zXA8ypu)
+[![Discord channel](https://img.shields.io/discord/622797245368238082?logo=discord)](https://discord.gg/RymBzwKPyZ)
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCs1ssVSR49YItKE7DZ3-Jcw)
 
