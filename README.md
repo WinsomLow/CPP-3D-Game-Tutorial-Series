@@ -1,4 +1,3 @@
-
 ![](Media/banner_github.png)
 
 ![CPP11](https://img.shields.io/badge/C++->=11-blue)
@@ -7,56 +6,49 @@
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCs1ssVSR49YItKE7DZ3-Jcw)
 
-C++ 3D Game Tutorial Series
-==================================
+`C++ 3D Game Tutorial Series`  is a YouTube Tutorial Series [(link)](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy),</br>
+whose purpose is to help all those who want to take their first steps in the game development from scratch.</br>
+In this series you'll learn how to create a 3D Game Demo, starting from the creation of a Window by using Win32 API</br>
+to the making of all the necessary sub-systems in order to achieve a complete 3D Game, like</br>
 
-This project is available under a free and permissive license, but needs a financial support to sustain its development.  
-The development includes both the making of video tutorials and the writing of the code.  
-If this project is in some way helpful to you, please consider to support it through Patreon.  
-Any single contribution would be greately appreciated, regardless the amount.  
-Thank you for all your support!  
+- 3D Graphics Engine</br>
+- Audio System</br>
+- GUI System</br>
+- Entity System</br>
+- Input System</br>
+- Fonts</br>
+
+You can find the license [here](#license).</br>
+
+---
+
+This project is available under a free and permissive license, but needs a financial support to sustain its development.<br/> 
+The development includes both the making of video tutorials and the writing of the code.<br/> 
+Consider to support it through [`Patreon`](https://www.patreon.com/pardcode).<br/>  
+Any single contribution would be greately appreciated, regardless the amount.<br/>
+Many thanks to all [**these people**](#supporters) who have supported me so far!<br/>
   
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)  
 
------
-**C++ 3D Game Tutorial Series**  is a YouTube tutorial series [(link)](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy), whose purpose is to help all those who want to take their first steps in the game development from scratch.
-In this series will be developed a 3D Game Demo, starting from the creation of a Window by using Win32 API to the making of all the necessary sub-systems in order to achieve a complete 3D Game,
-like
 
-- 3D Graphics Engine
-- Audio System
-- GUI System
-- Entity System
-- Input System
-- Fonts
+# Supporters
 
-and so on.
-
------
-### Supporters ###
 Thank you so much for your huge support!
 
 **Patreon Supporters (alphabetical order)**  
   
-Bastien
+Bastien<br/>
+Elite Salad<br/>
+fragma<br/>
+GhostDesign<br/>
+James Benton<br/>
+Oli Homer<br/>
+Rem saigao<br/>
 
-Elite Salad
-
-fragma
-
-GhostDesign
-
-James Benton
-
-Oli Homer
-
-Rem saigao
-
-  
 **All YouTube - Discord - GitHub - Twitter followers and viewers**  
 
------
-### License ###
+# License
+
 The license of this project is based on the modified MIT-License.
 
 That means you can do whatever you want with the code available in this repository. 
