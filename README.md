@@ -20,7 +20,7 @@ to the making of all the necessary sub-systems in order to achieve a complete 3D
 
 ---
 
-For any **question**, **doubt** or **clarification** about the `C++ 3D Game Tutorial Series`, you can join
+For any **questions**, **doubts** or **clarifications** about the `C++ 3D Game Tutorial Series`, you can join
 the [discord server](https://discord.gg/RymBzwKPyZ), where you can meet other users or developers like you.<br/>
 Before to ask any question, check the [FAQs](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/wiki/Frequently-Asked-Questions).
 The answers you are searching for could be already there.<br/>
@@ -32,7 +32,7 @@ This project is available under a free and permissive license, but needs a finan
 The development includes both the making of video tutorials and the writing of the code.<br/> 
 Consider to support it through [`Patreon`](https://www.patreon.com/pardcode).<br/>  
 Any single contribution would be greately appreciated, regardless the amount.<br/>
-Many thanks to all [**these people**](#supporters) who have supported me so far!<br/>
+Many thanks to all [**these people**](#supporters) who have supported me so far! <br/>
   
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)  
 
