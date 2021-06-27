@@ -6,7 +6,7 @@
 [![Patreon](https://img.shields.io/badge/Patreon-Donate-orange)](https://www.patreon.com/pardcode)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCs1ssVSR49YItKE7DZ3-Jcw)
 
-`C++ 3D Game Tutorial Series`  is a YouTube Tutorial Series [(link)](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy),</br>
+[`C++ 3D Game Tutorial Series`](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy) is a YouTube Tutorial Series,</br>
 whose purpose is to help all those who want to take their first steps in the game development from scratch.</br>
 In this series you'll learn how to create a 3D Game Demo, starting from the creation of a Window by using Win32 API</br>
 to the making of all the necessary sub-systems in order to achieve a complete 3D Game, like</br>
