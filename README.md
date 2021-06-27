@@ -78,4 +78,4 @@ Copyright (c) <your years>, <your name>
 ...
 ```
 
-The license text is available in the LICENSE file.
+The license text is available in the [`LICENSE`](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/blob/AllTutorials/LICENSE) file.
