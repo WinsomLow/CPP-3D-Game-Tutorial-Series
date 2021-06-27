@@ -18,7 +18,13 @@ to the making of all the necessary sub-systems in order to achieve a complete 3D
 - Input System</br>
 - Fonts</br>
 
-You can find the license [here](#license).</br>
+---
+
+For any **question**, **doubt** or **clarification** about the `C++ 3D Game Tutorial Series`, you can join
+the [discord server](https://discord.gg/RymBzwKPyZ), where you can meet other users or developers like you.<br/>
+Before to ask any question, check the [FAQs](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series/wiki/Frequently-Asked-Questions).
+The answers you are searching for could be already there.<br/>
+You can find the license [here](#license).
 
 ---
 
