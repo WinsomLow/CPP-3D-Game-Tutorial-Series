@@ -36,14 +36,34 @@ Many thanks to all [**these people**](#supporters) who have supported me so far!
 Thank you so much for your huge support!
 
 **Patreon Supporters (alphabetical order)**  
-  
-Bastien<br/>
+
+Ahmad A.<br/>
+Anotherbear Gamer<br/> 
+Bastien R.<br/>
+bdfy<br/>
+Carlo S.<br/>
+Daniel W.<br/>
 Elite Salad<br/>
-fragma<br/>
-GhostDesign<br/>
-James Benton<br/>
-Oli Homer<br/>
+hisuzuki<br/>
+Howl C<br/>
+James B.<br/>
+Joshua v.<br/>
+kuronk cat<br/>
+Lie<br/>
+Manuel H.<br/>
+Mateusz P.<br/>
+Neil W.<br/>
+Nikhil R.<br/>
+Oliver H.<br/>
+Patrick B.<br/>
 Rem saigao<br/>
+Ridtichai B.<br/>
+Snip<br/>
+Squeegiefilms<br/> 
+The Spygineer<br/>
+Valgard<br/>
+Werner O.<br/>
+WyattFlash<br/>
 
 **All YouTube - Discord - GitHub - Twitter followers and viewers**  
 
