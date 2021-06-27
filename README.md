@@ -50,6 +50,9 @@ Werner O. - WyattFlash
 
 **All YouTube - Discord - GitHub - Twitter followers and viewers**  
 
+P.S.: If you are a Patron and you want to be added or removed from this list,
+please send a message to PardCode through Patreon.
+
 # License
 
 The license of this project is based on the modified MIT-License.
