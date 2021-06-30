@@ -9,14 +9,11 @@
 [`C++ 3D Game Tutorial Series`](https://www.youtube.com/playlist?list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy) is a YouTube Tutorial Series,</br>
 whose purpose is to help all those who want to take their first steps in the game development from scratch.</br>
 In this series you'll learn how to create a 3D Game Demo, starting from the creation of a Window by using Win32 API</br>
-to the making of all the necessary sub-systems in order to achieve a complete 3D Game, like</br>
+to the making of all the necessary sub-systems in order to achieve a 3D Game Demo, like</br>
 
 - 3D Graphics Engine</br>
-- Audio System</br>
-- GUI System</br>
-- Entity System</br>
+- Windowing System</br>
 - Input System</br>
-- Fonts</br>
 
 ---
 
